@@ -1,4 +1,4 @@
-# 【Grasshopper】Grasshopperで例外処理を考える
+# 【Grasshopper】複数のコンポーネントを1度に入力してみる
 
 ## ファイル概要
 
