@@ -4,6 +4,7 @@
 
 - multiple_components_at_once.gh
 - Calc Multiplication.ghuser
+- template.py
 
 ## TechBlog
 
